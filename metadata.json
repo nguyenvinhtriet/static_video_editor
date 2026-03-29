@@ -1,0 +1,5 @@
+{
+  "name": "Static Video Editor",
+  "description": "A static video editor running entirely in the browser using Next.js, WebCodecs, and ffmpeg.wasm.",
+  "requestFramePermissions": []
+}
